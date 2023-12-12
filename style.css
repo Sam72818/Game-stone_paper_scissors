@@ -126,4 +126,11 @@ img{
   margin: 100px;
 }
 
+  .msg-conatiner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
 }
